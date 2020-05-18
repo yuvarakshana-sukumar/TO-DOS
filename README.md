@@ -1,0 +1,2 @@
+# TO-DOS
+To-dos contain all of the tasks that you need to complete on a given day. It’s a great device for managing time that enables you to lay out everything that you need to accomplish and plan and prioritize your day from there. You can also make to-dos for major tasks like a work assignment or an overall goal. Therefore, the overall purpose of creating a to-do is to remember tasks and create a plan of action to accomplish them.
